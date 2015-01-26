@@ -8,7 +8,7 @@ QueryMaster.dll
 
 #How to use
 1. Start app
-2. Enter data, for autorestarts and close server crashes IP must be 127.0.0.1
+2. Enter data in console
 
 #Sample
 ip 127.0.0.1
@@ -17,6 +17,4 @@ pName rust_server
 pPath C:/rust_server.exe
 
 #????
-
-#Profit!
-
+#You are great!
