@@ -1,0 +1,8 @@
+C:\Projects\SQSC\SQSC\bin\Debug\SQSC.exe.config
+C:\Projects\SQSC\SQSC\bin\Debug\SQSC.exe
+C:\Projects\SQSC\SQSC\bin\Debug\SQSC.pdb
+C:\Projects\SQSC\SQSC\bin\Debug\Ionic.BZip2.dll
+C:\Projects\SQSC\SQSC\bin\Debug\QueryMaster.dll
+C:\Projects\SQSC\SQSC\obj\Debug\SQSC.csprojResolveAssemblyReference.cache
+C:\Projects\SQSC\SQSC\obj\Debug\SQSC.exe
+C:\Projects\SQSC\SQSC\obj\Debug\SQSC.pdb
